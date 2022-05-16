@@ -1,0 +1,39 @@
+body {
+  background-color: white;
+}
+
+form {
+  margin: 0;
+position: absolute;
+top: 45%;
+left: 45%;
+
+}
+.input{
+  margin:10px 0 20px 0;
+  width: 140px;
+height: 25px;
+border-radius: 15px;
+}
+.submitButton{
+  position: relative;
+  border-radius: 15px;
+  padding: 4px 12px;
+}
+
+/*home*/
+
+.container{
+  background-color: grey;
+  width: 300px;
+  height: 50px;
+  border-radius: 15px;
+}
+.list{
+  position: absolute;
+  top: 45%;
+  left:45%;
+}
+.tex{
+  padding: 20px 8px;
+}
